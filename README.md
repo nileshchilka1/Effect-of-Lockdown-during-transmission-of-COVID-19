@@ -3,4 +3,4 @@ Simply Applied the Visualization on Data of India and USA and understood the eff
 
 
 <img src = "https://github.com/nileshchilka1/Effect-of-Lockdown-during-transmission-of-COVID-19/blob/master/Effect%20of%20Lockdown.png"
-         alt = "HTML Tutorial" height = "400" width = "750" />
+         alt = "HTML Tutorial" height = "460" width = "750" />
